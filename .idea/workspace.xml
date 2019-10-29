@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="136d5e2d-7dc8-4c62-986d-073ef764604e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/scenario1/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario1/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenario2/tslint.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Soi8q20hpD6ZAG2XBOy0x6SYyE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="136d5e2d-7dc8-4c62-986d-073ef764604e" name="Default Changelist" comment="" />
+      <created>1572236192825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572236192825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
